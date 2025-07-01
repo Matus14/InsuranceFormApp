@@ -1,0 +1,17 @@
+.person-icon {
+  max-width: 250px;
+}
+
+.card {
+  padding: 1.5rem;
+}
+
+header, footer {
+  background-color: #e5eaee;
+  padding: 1rem;
+}
+
+.logo {
+  height: 30px;
+  margin-right: 5px;
+}
